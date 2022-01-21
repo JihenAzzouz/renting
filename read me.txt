@@ -1,0 +1,7 @@
+a small website for Event Management. 
+We will have a user in this site, an administrator who will add, modify or delete his villas after login
+to test 
+login admin@admin
+pass admin
+
+Tools and tech :PHP v8,apache xampp
